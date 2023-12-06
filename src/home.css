@@ -1,0 +1,84 @@
+/* src/styles.css */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    
+  }
+
+
+  nav{
+
+    background-color: #a87c7c;
+    color: white;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-decoration: none;
+    
+  }
+  
+
+  /* footer.css 
+.footer {
+  background-color: #333;
+  color: #fff;
+  padding: 1rem;
+  text-align: center;
+}
+*/
+
+/* Footer.css */
+.footer {
+  background-color: #333;
+  color: #fff;
+  padding: 2rem;
+  text-align: center;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo img {
+  width: 50px; /* Adjust the size as needed */
+  height: 50px;
+}
+
+.text p {
+  margin: 0;
+}
+
+  .home, .about, .contact {
+    text-align: center;
+    padding: 40px;
+    background-color: #a87c7c;
+  }
+  
+  .contact-form {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+  
+  .map {
+    background-color: #000;
+    color: #fff;
+    padding: 50px;
+  }
+
+.logo a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 1.5rem;
+  font-weight: bold;
+
+}
+
+l
+/* Navbar.css */
+.logo img {
+  height: 40px; /* Adjust the size as needed */
+}
